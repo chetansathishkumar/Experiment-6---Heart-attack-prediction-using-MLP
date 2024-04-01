@@ -15,8 +15,8 @@ Step 10:Print the accuracy of the model.<br>
 Step 11:Plot the error convergence during training using plt.plot() and plt.show().<br>
 
 ## Program:
-Developed By: DHIVYA SHRI B
-Reg No: 212221230009
+Developed By: Pabbarthi Chetan Sathish Kumar
+Reg No: 212220230033
 ```
 import numpy as np
 import pandas as pd 
